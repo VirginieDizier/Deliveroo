@@ -1,3 +1,10 @@
+# Copy of Deliveroo website
+
+## Preview
+
+![Capture d’écran 2020-01-28 à 20 57 37](https://user-images.githubusercontent.com/56254199/73300224-f248f900-4210-11ea-8523-9b71c2090f11.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
